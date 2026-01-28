@@ -6,9 +6,9 @@ import re
 main_bp = Blueprint('main', __name__)
 
 # ============================================
-# ConstructionCompany LOCAL CHATBOT (No API - Runs Locally)
+# ConstructionCompany LOCAL CHATBOT )
 # ============================================
-print("✓ ConstructionCompany Local Chatbot Loaded (Lightweight - No External APIs)")
+print("✓ ConstructionCompany Local Chatbot Loaded")
 
 # Company Data
 COMPANY = {
